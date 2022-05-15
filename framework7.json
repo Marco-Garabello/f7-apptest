@@ -1,0 +1,19 @@
+{
+  "cwd": "/home/antonio/tmp/testf7",
+  "type": [
+    "pwa"
+  ],
+  "name": "testAPP7",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": true
+  },
+  "customBuild": false
+}
